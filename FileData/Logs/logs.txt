@@ -1,0 +1,18 @@
+2017-12-15 14:26:19,806 [9] DEBUG FileData.Program - File Processing Failed
+2017-12-15 14:26:19,806 [9] ERROR FileData.Program - Failed
+2017-12-15 15:24:38,533 [10] DEBUG FileData.FileProcessor - File Processing Started..
+2017-12-15 15:25:15,088 [10] DEBUG FileData.Program - File Processing Completed Successfully
+2017-12-15 15:32:04,290 [10] DEBUG FileData.FileProcessor - File Processing Started..
+2017-12-15 15:33:29,193 [10] DEBUG FileData.Program - Unable to Process the arguments
+2017-12-15 15:38:03,954 [10] DEBUG FileData.FileProcessor - File Processing Started..
+2017-12-15 15:38:03,970 [10] DEBUG FileData.FileProcessor - Argument is of type Version
+2017-12-15 15:38:03,970 [10] DEBUG FileData.FileProcessor - Version 2.4.11 retrived
+2017-12-15 15:38:03,970 [10] DEBUG FileData.Program - File Processing Completed Successfully
+2017-12-15 15:39:15,775 [9] DEBUG FileData.FileProcessor - File Processing Started..
+2017-12-15 15:39:15,781 [9] DEBUG FileData.FileProcessor - Argument is of type Size
+2017-12-15 15:39:15,781 [9] DEBUG FileData.FileProcessor - Size 194746 retrived
+2017-12-15 15:39:15,781 [9] DEBUG FileData.Program - File Processing Completed Successfully
+2017-12-15 15:40:02,882 [8] DEBUG FileData.FileProcessor - File Processing Started..
+2017-12-15 15:40:02,889 [8] DEBUG FileData.FileProcessor - Argument is of type 'Size'
+2017-12-15 15:40:02,889 [8] DEBUG FileData.FileProcessor - Size 144886 retrived
+2017-12-15 15:40:02,889 [8] DEBUG FileData.Program - File Processing Completed Successfully
